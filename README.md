@@ -1,5 +1,3 @@
-Here’s a clean and professional README.md you can use for your GitHub repo. I’ve included all the essentials (project intro, features, setup, usage, and reference to your YouTube tutorial). You can adjust repo name and links as needed:
-
 .NET 9 Web API – JWT Authentication (Access & Refresh Tokens)
 
 This repository contains a step-by-step implementation of JWT Authentication in .NET 9 Web API, covering both Access Tokens and Refresh Tokens.
